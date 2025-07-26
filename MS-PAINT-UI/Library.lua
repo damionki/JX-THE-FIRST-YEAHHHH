@@ -62,7 +62,7 @@ local Library = {
     Options = Options,
 
     NotifySide = "Right",
-    ShowCustomCursor = false,
+    ShowCustomCursor = true,
     ForceCheckbox = false,
     ShowToggleFrameInKeybinds = true,
     NotifyOnError = false,
